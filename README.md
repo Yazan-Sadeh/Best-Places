@@ -1,1 +1,1 @@
-# Best-Places
+# BestPlaces
